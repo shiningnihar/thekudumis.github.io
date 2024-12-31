@@ -1,2 +1,2 @@
 # thekudumis.github.io
-Website for Kudumi Community
+Website for the Kudumi Community
